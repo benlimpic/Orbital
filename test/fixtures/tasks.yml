@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+  title: MyString
+  description: MyString
+  body: MyText
+  priority: MyString
+  life_cycle: MyString
+  slug: MyString
+  project: one
